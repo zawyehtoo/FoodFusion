@@ -1,3 +1,4 @@
+![Screenshot_16-5-2025_173843_localhost](https://github.com/user-attachments/assets/f659f5de-4684-42c4-98ad-5bb5447583c5)
 
 In my project folder, I have included "foodfusion.sql" SQL file.
  
