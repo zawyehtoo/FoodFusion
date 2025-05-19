@@ -1,5 +1,3 @@
-![Screenshot_16-5-2025_173843_localhost](https://github.com/user-attachments/assets/f659f5de-4684-42c4-98ad-5bb5447583c5)
-
 In my project folder, I have included "foodfusion.sql" SQL file.
  
 Please import this "foodfusion.sql" SQL file into the MySQL Workbench.
@@ -24,3 +22,4 @@ After importing "foodfusion.sql" to the workbench, please change your own MySQL 
     private $database = 'foodfusion';
     ![Screenshot_16-5-2025_174843_localhost](https://github.com/user-attachments/assets/f4a4389a-af11-48a9-8bfc-542ce26c5939)
 ![Screenshot_16-5-2025_173624_localhost](https://github.com/user-attachments/assets/e100cbbe-13c8-49ff-8bab-56dc79c96c90)
+![Screenshot_16-5-2025_173843_localhost](https://github.com/user-attachments/assets/f659f5de-4684-42c4-98ad-5bb5447583c5)
